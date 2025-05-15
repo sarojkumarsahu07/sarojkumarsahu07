@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Saroj Kumar Sahu
 
-🎓 Computer Science Student | 💻 Aspiring Full-Stack Developer | 🌐 Open Source Enthusiast
+🎓 Computer Science Student | 💻 Aspiring Python Developer | 🌐 Open Source Enthusiast
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on enhancing my portfolio with real-world projects.
-- 🌱 I’m learning advanced JavaScript frameworks and backend development.
+- 🌱 I’m learning advanced python frameworks and backend development.
 - 💬 Ask me about web development, Python, and open-source contributions.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sksahu2002)
 
@@ -17,7 +17,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -39,7 +38,6 @@
 ---
 
 *Feel free to reach out for collaboration or any queries!*
-## Hi there 👋
 
 <!--
 **sarojkumarsahu07/sarojkumarsahu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
